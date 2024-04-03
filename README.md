@@ -1,7 +1,5 @@
 # Front-end Developer
 
-## About Me
-
 Greetings! I'm Stanislav, an experienced Front-end Developer eager to contribute to your promising projects. With a solid foundation in TypeScript, React, Next.js, and React Native, I'm ready to help bring your ideas to life.
 
 Let's connect and discuss how we can collaborate to make your projects a reality.
